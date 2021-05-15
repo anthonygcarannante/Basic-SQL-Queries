@@ -130,3 +130,4 @@ dmypy.json
 
 # Files
 db_user.py
+.DS_Store
