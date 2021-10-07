@@ -1,4 +1,4 @@
-# SQL-Challenge
+# Basic-SQL-Queries
 
 This repo is to show my knowledge of SQL querying.
 I created multiple queries to combine tables and display specific data between 6 tables in the SQL database.
